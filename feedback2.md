@@ -10,7 +10,6 @@
 - L'utilisation de chaînes de caractères simples pour les requêtes SQL est dangereux. La correction montre la meilleure façon avec l'utilisation de l'objet.Cela apporte une protection contre les injections SQL.
 
 ## Dossier `controllers`
-- L'apprenant 2 a un fichier supplémentaire, `cardsController.js`, qui n'est pas présent dans la correction.
 - Dans `searchController.js`, la correction semble récupérer les cartes correspondant à l'élément recherché directement à partir de la base de données, ce qui est plus efficace.
 
 ## Conclusion
